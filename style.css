@@ -5,3 +5,6 @@ body {
   text-align: center;
   font-family: "Autour One", "Trebuchet MS";
 }
+h1 {
+  border-style: double; border-width: 5px;
+}
