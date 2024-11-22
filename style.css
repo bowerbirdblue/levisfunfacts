@@ -1,5 +1,6 @@
 img {
     width: 200px;
+    border-style: double; border-width: 5px;
   }
 body {
   text-align: center;
